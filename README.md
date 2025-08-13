@@ -1,4 +1,4 @@
-# Data Scientist
+# Computer Information Systems / Applied Business Data Analytics
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
