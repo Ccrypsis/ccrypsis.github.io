@@ -9,6 +9,7 @@
 ## Projects
 ### InsightBoard - Rethinking Employee Feedback
 [Artifact](https://github.com/Ccrypsis/InsightBoard) 
+
 [Pitch/Demo](https://docs.google.com/presentation/d/1TkWyY4RRbUriOxdPkLdpftpb9Pln6G13D3XdUfW9h3c/edit)
 
 A web application designed to help organizations gather honest and actionable employee feedback in a more engaging way. Inspired by the familiar Reddit-style interface, it allows employees to submit feedback anonymously, vote on others’ suggestions, and highlight issues or ideas that matter most to them.
@@ -21,6 +22,7 @@ Built using Agile and Scrum methodologies, the project focused on creating a use
 
 ### Class Registration App
 [Artifact](https://github.com/Ccrypsis/ClassApp)
+
 [Demo](https://www.youtube.com/watch?v=U-wOqDPxjfY)
 
 A full-stack web application that streamlines the process of enrolling in courses. It enables students to browse available classes, view schedules, check seat availability, and register or drop courses in real time. The system includes secure user authentication, role-based access for students and administrators, and conflict detection to prevent overlapping class schedules. Built with a focus on usability and efficiency, the app features a clean, responsive interface and integrates backend APIs for data management and validation. Designed as part of an academic project, it showcases best practices in software design, database integration, and iterative development.
