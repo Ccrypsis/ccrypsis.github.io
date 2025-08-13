@@ -8,7 +8,7 @@
 
 ## Projects
 ### InsightBoard - Rethinking Employee Feedback
-[Artifact](https://github.com/Ccrypsis/InsightBoard)
+[Artifact](https://github.com/Ccrypsis/InsightBoard) 
 [Pitch/Demo](https://docs.google.com/presentation/d/1TkWyY4RRbUriOxdPkLdpftpb9Pln6G13D3XdUfW9h3c/edit)
 
 A web application designed to help organizations gather honest and actionable employee feedback in a more engaging way. Inspired by the familiar Reddit-style interface, it allows employees to submit feedback anonymously, vote on others’ suggestions, and highlight issues or ideas that matter most to them.
