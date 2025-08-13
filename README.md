@@ -1,33 +1,29 @@
-# Computer Information Systems / Applied Business Data Analytics
+# Data Analytics / CIS / Cyber Security
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, Java, HTML, CSS, SMSS, SQL, Tableau, Excel
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
-
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+## Education 			        		
+- B.S., Computer Information Systems | Arizona State University (_May 2026_)
+- Minor in Applied Business Data Analytics | Arizona State University (_May 2026_)
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### InsightBoard - Rethinking Employee Feedback
+[Artifact](https://github.com/Ccrypsis/InsightBoard)
+[Pitch/Demo](https://docs.google.com/presentation/d/1TkWyY4RRbUriOxdPkLdpftpb9Pln6G13D3XdUfW9h3c/edit)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+A web application designed to help organizations gather honest and actionable employee feedback in a more engaging way. Inspired by the familiar Reddit-style interface, it allows employees to submit feedback anonymously, vote on others’ suggestions, and highlight issues or ideas that matter most to them.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+The platform includes separate dashboards for both employees and administrators. Employees can post, comment, and engage with others’ feedback, while administrators can review submissions, approve or deny posts, and track trending topics to identify workplace priorities.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+Built using Agile and Scrum methodologies, the project focused on creating a user-friendly interface, integrating multiple backend entry points into a cohesive system, and ensuring smooth functionality through thorough testing. The final result is a collaborative tool that encourages open communication and fosters continuous improvement within an organization.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+![InsightBoard Login Page](/assets/img/eeg_band_discovery.jpeg)
+
+### Class Registration App
+[Artifact](https://github.com/Ccrypsis/ClassApp)
+[Demo](https://www.youtube.com/watch?v=U-wOqDPxjfY)
+
+A full-stack web application that streamlines the process of enrolling in courses. It enables students to browse available classes, view schedules, check seat availability, and register or drop courses in real time. The system includes secure user authentication, role-based access for students and administrators, and conflict detection to prevent overlapping class schedules. Built with a focus on usability and efficiency, the app features a clean, responsive interface and integrates backend APIs for data management and validation. Designed as part of an academic project, it showcases best practices in software design, database integration, and iterative development.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
