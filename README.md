@@ -32,3 +32,14 @@ A full-stack web application that streamlines the process of enrolling in course
 
 ![Registration App](/assets/img/RegistrationApp.png)
 
+### Movie Theater Data Analytics – Executive Presentation
+[Presentation](https://www.youtube.com/watch?v=lpbHQ0RsRj8)
+
+Led a cross-functional team to analyze ticket sales, concession trends, and attendance data for a regional movie theater chain. Designed visualizations and identified actionable strategies to optimize scheduling, pricing, and audience engagement. Delivered findings through a professional video presentation to the executive leadership team.
+
+### Cyber Security
+- Security Labs: Built a virtual lab using VirtualBox to simulate network environments, practicing vulnerability scanning and patching with tools like Nmap and Wireshark.
+- Penetration Testing Exercises: Explored ethical hacking techniques through platforms like TryHackMe and Hack The Box, identifying common vulnerabilities such as SQL injection and weak password policies.
+- Security Policies & Compliance: Studied NIST Cybersecurity Framework and basic GDPR principles to understand compliance requirements for organizations.
+- Incident Response Simulation: Participated in a mock incident response drill, including log analysis, threat identification, and mitigation planning.
+
