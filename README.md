@@ -1,4 +1,4 @@
-# Data Analytics / CIS / Cyber Security
+# Cyber Security / CIS / Data Analytics
 
 #### Technical Skills: Python, Java, HTML, CSS, SMSS, SQL, Tableau, Excel
 
