@@ -6,7 +6,7 @@
 - B.S., Computer Information Systems | Arizona State University (_May 2026_)
 - Minor in Applied Business Data Analytics | Arizona State University (_May 2026_)
   
-## Certificates
+### Certificates
 - Business Intelligence and Data Analytics (with Honors Distinction) - Credential ID: 15888595
 - FCF - Introduction to the Threat Landscape 2.0 
 
